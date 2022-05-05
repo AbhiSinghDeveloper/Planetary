@@ -673,6 +673,14 @@ section {
     font-size: 18px;
     line-height: 24px;
   }
+  .cont{
+    flex-direction: column;
+  }
+}
+
+.cont {
+  display: flex;
+  justify-content: space-around;
 }
 
 
