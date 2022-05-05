@@ -659,6 +659,9 @@ section {
   }
 }
 @media (max-width: 768px) {
+  .person{
+    display: hidden;
+  }
   #hero1 {
     height: 100vh;
   }
