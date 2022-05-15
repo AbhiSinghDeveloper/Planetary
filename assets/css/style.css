@@ -714,7 +714,7 @@ section {
 }
 #hero2 .carousel-indicators li.active {
   opacity: 1;
-  background: #d9232d;
+  background: #08a4a7;
 }
 #hero2 .btn-get-started {
   font-family: "Raleway", sans-serif;
@@ -729,10 +729,10 @@ section {
   color: #fff;
   -webkit-animation-delay: 0.8s;
   animation-delay: 0.8s;
-  background: #d9232d;
+  background: #08a4a7;
 }
 #hero2 .btn-get-started:hover {
-  background: #df3740;
+  background: #16003B;
 }
 @media (max-width: 992px) {
   #hero2 {
@@ -900,8 +900,8 @@ section {
   color: #fff;
 }
 #hero2 .btn-get-started:hover {
-  background: #5fcf80;
-  border: 2px solid #5fcf80;
+  background: #16003B;
+  border: 2px solid #fff;
 }
 @media (min-width: 1024px) {
   #hero2 {
@@ -1494,7 +1494,7 @@ section {
 .contact .php-email-form .error-message {
   display: none;
   color: #fff;
-  background: #ed3c0d;
+  background: #08a4a7;
   text-align: left;
   padding: 15px;
   font-weight: 600;
